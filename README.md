@@ -1,6 +1,6 @@
-# Toko Sayur 22
+# Toko Bangunan WS Store
 
-Toko sayur 22 merupakan aplikasi web toko online sederhana dengan demo produk penjualan sayur. Produk dan kategori dapat diubah dengan bebas (tidak hanya sayur), pengaturan (nama situs, rekening) dan sebagainya bisa diubah dengan bebas melalui dasbor.
+Toko bangunan ws store merupakan aplikasi web toko online sederhana dengan demo produk penjualan material. Produk dan kategori dapat diubah dengan bebas (tidak hanya produk), pengaturan (nama situs, rekening) dan sebagainya bisa diubah dengan bebas melalui dashboard.
 
 Aplikasi ini **HANYA DIGUNAKAN UNTUK PEMBELAJARAN** dan **TIDAK DISARANKAN DIGUNAKAN** pada toko yang nyata.
 
