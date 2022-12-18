@@ -1,8 +1,6 @@
 # Toko Bangunan WS Store
 
-Toko bangunan ws store merupakan aplikasi web toko online sederhana dengan demo produk penjualan material. Produk dan kategori dapat diubah dengan bebas (tidak hanya produk), pengaturan (nama situs, rekening) dan sebagainya bisa diubah dengan bebas melalui dashboard.
-
-Aplikasi ini **HANYA DIGUNAKAN UNTUK PEMBELAJARAN** dan **TIDAK DISARANKAN DIGUNAKAN** pada toko yang nyata.
+Toko bangunan ws store merupakan aplikasi web toko online sederhana dengan demo penjualan produk material. WS Store adalah toko bangunan yang menyediakan kebutuhan pembangunan dalam renovasi rumah, kantor dan bangunan lainnya. Kami menjual berbagai macam bahan bangunan seperti Genteng, Pasir, Semen, dan Cat tembok. Kami juga menjual berbagai macam lampu, berbagai macam kunci, keramik, pintu, wastafel, kloset, shower, keran, dll. Toko Bangunan Ws Store melayani pembelian dan pengiriman ke seluruh Indonesia termasuk ke luar pulau dan luar Jabodetabek.</p>
 
 ##Fitur
 
@@ -10,11 +8,13 @@ Aplikasi ini **HANYA DIGUNAKAN UNTUK PEMBELAJARAN** dan **TIDAK DISARANKAN DIGUN
 - Register
 - Keranjang belanja
 - Checkout
+- Melihat detail order
 - Sistem kupon Belanja
 - Pembayaran melalui transfer bank
+- Pembayaran melalui COD
 - Konfirmasi pembayaran
 - Formulir kontak
-- Testimoni
+- Testimoni Pelanggan
 
 ##Hak akses
 
@@ -33,6 +33,3 @@ Untuk mencoba menggunakan toko ini, gunakan dua browser yang berbeda untuk memud
 
 - Username: customer
 - Password: 12345
-
-Untuk panduan cara menginstal, silahkan buka file **panduan-installasi.pdf**
-# toko-bangunan
